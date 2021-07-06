@@ -1,3 +1,4 @@
+/*
 Notification Shield Example
 This example shows an application on 1Sheeld's notification shield.
 By using this example, you can send notifications to your
@@ -48,16 +49,3 @@ void loop()
     digitalWrite(ledPin,LOW);
   }
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
